@@ -1,7 +1,7 @@
 ### Question  
 Use the Machine Learning  Workflow to process and  transform Nigeria’ s economic indicators data to  create a prediction model. This  model must use said indicators to predict GDP growth of Nigeria one year ahead with 75%  or greater  accuracy.  
 ### Data sources  
-GDP (current $): https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=chart   
+GDP (current $): https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=chart   <br>
 Direct Link: http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv  
  
 GDP growth (annual %): https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?view=chart   
